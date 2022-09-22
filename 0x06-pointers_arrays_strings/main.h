@@ -1,8 +1,10 @@
 #ifndef MAIN_H
 #define MAIN_H
+
 /**
  * Decsription: This is a header file containing prototypes for all fuctions.
  */
+
 int _putchar(char c);
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
