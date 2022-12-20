@@ -2,6 +2,7 @@
 /**
  * print_rev - this is the recursive function to print,
  * it prints the linked list in reversed order
+ * @s: this is the string to print
  * return: 0
  */
 void print_rev(char *s)
