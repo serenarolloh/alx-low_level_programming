@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * print_rev - this is the recursive function to print, it prints the linked list in reversed order
+ * print_rev - this is the recursive function to print,
+ * it prints the linked list in reversed order
  * return: 0
  */
 void print_rev(char *s)
