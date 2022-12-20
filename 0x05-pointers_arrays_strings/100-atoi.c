@@ -4,6 +4,7 @@
  * @s: string that is to be converted
  * Return: the iint converted from the string
  */
+int _atoi(char *s)
 {
 int i, d, n, len, f, digit;
 i = 0;
