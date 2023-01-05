@@ -1,0 +1,1 @@
+This folder contains code for the recursion project. A recursion is the technique of making a function call itself
