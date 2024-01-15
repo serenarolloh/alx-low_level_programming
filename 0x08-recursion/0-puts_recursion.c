@@ -18,6 +18,6 @@ void _puts_recursion(char *s)
 
 int main(void)
 {
-    _puts_recursion("Hello, recursion!");
+    _puts_recursion("First solve the problem, then write the code");
     return 0;
 }
