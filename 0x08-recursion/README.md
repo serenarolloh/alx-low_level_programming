@@ -1,1 +1,0 @@
-This directory contains code written when learning recursion in C
